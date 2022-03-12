@@ -1,0 +1,92 @@
+body {
+    background-color: beige;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#title {
+    color: darkgreen;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: bold;
+    margin: 0 0 25px 0;
+}
+
+#item-description {
+    display: flex;
+    justify-content: center;
+}
+
+#game-description, #round-result{
+    color: rgb(61, 134, 61);
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0;
+}
+
+#scores {
+    margin: 30px;
+}
+
+
+/* #player-score-display, #computer-score-display {
+    border-style: solid;
+    font-size: 22px;
+    font-weight: bold;
+    color: rgba(25, 25, 27, 0.767);
+    padding: 8px;
+} */
+
+.header {
+    padding: 0;
+}
+
+
+#cards {
+    display: flex;
+    gap: 150px;
+    align-content: center;
+}
+
+img {
+    max-width: 120px;
+    background-color: none;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btn {
+    margin: 50px;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(173, 231, 173);
+    outline: none;
+}
+
+#scores {
+    display: flex;
+    gap: 30px;
+}
+
+.btn:hover {
+    transform: scale(120%);
+    border-color: darkgreen;
+    border-width: 3px;
+}
+
+
+
+#winner {
+    font-size: 32px;
+    font-weight: bold;
+    color: rgba(25, 25, 27, 0.767);
+    font-style: italic;
+}

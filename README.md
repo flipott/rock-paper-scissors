@@ -2,6 +2,7 @@
 
 This is a basic Rock Paper Scissors game webpage. It features a simple UI designed with HTML and CSS. JavaScript was used to code the game and showcases functions and editing DOM elements.
 
+Live page viewable here: https://flipott.github.io/rock-paper-scissors/
 
 # Attribution
 Rock icon created by Freepik on Flaticon: https://www.flaticon.com/free-icon/rock_500351

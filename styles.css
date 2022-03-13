@@ -16,35 +16,35 @@ body {
     margin: 0 0 25px 0;
 }
 
+#footer {
+    position: fixed;
+    bottom: 0;
+    padding: 18px;
+    background-color: darkslategray;
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+
 #item-description {
     display: flex;
     justify-content: center;
 }
 
-#game-description, #round-result{
+#game-description, #round-result {
     color: rgb(61, 134, 61);
     font-size: 20px;
     font-weight: bold;
     margin: 0;
 }
 
-#scores {
-    margin: 30px;
+#rounds-played {
+    margin: 50px 0 0 0;
 }
-
-
-/* #player-score-display, #computer-score-display {
-    border-style: solid;
-    font-size: 22px;
-    font-weight: bold;
-    color: rgba(25, 25, 27, 0.767);
-    padding: 8px;
-} */
 
 .header {
     padding: 0;
 }
-
 
 #cards {
     display: flex;
@@ -71,22 +71,38 @@ img {
     outline: none;
 }
 
-#scores {
-    display: flex;
-    gap: 30px;
-}
-
 .btn:hover {
     transform: scale(120%);
     border-color: darkgreen;
     border-width: 3px;
 }
 
-
+#scores {
+    display: flex;
+    gap: 30px;
+    margin: 30px;
+}
 
 #winner {
     font-size: 32px;
     font-weight: bold;
     color: rgba(25, 25, 27, 0.767);
     font-style: italic;
+}
+
+.score-display {
+    border-style: solid;
+    font-size: 22px;
+    font-weight: bold;
+    color: rgba(25, 25, 27, 0.767);
+    padding: 8px;   
+}
+
+.round-display {
+    border-bottom: 3px solid darkgreen;
+    border-top: 3px solid darkgreen;
+    font-size: 22px;
+    font-weight: bold;
+    color: rgba(25, 25, 27, 0.767);
+    padding: 8px;
 }

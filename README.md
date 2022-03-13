@@ -1,6 +1,6 @@
 # rock-paper-scissors
 
-This is a basic rock-paper-scissors game that can be played in the console of the webpage. It demonstrates a foundational knowledge of Javascript programming, featuring functions and conditional statements.
+This is a basic Rock Paper Scissors game webpage. It features a simple UI designed with HTML and CSS. JavaScript was used to code the game and showcases functions and editing DOM elements.
 
 
 # Attribution

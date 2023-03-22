@@ -14,6 +14,6 @@ Live page viewable here: https://flipott.github.io/rock-paper-scissors/
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 # Attribution
-Rock icon created by Freepik on Flaticon: https://www.flaticon.com/free-icon/rock_500351
-Paper icon created by Freepik on Flaticon: https://www.flaticon.com/premium-icon/send_2161491
-Scissors icon created by Freepik on Flaticon: https://www.flaticon.com/free-icon/scissors_2168956
+- Rock icon created by Freepik on Flaticon: https://www.flaticon.com/free-icon/rock_500351
+- Paper icon created by Freepik on Flaticon: https://www.flaticon.com/premium-icon/send_2161491
+- Scissors icon created by Freepik on Flaticon: https://www.flaticon.com/free-icon/scissors_2168956

@@ -1,8 +1,17 @@
-# rock-paper-scissors
+# Rock Paper Scissors
 
-This is a basic Rock Paper Scissors game webpage. It features a simple UI designed with HTML and CSS. JavaScript was used to code the game and showcases functions and editing DOM elements.
+My first JavaScript project! A basic implementation of the classic Rock Paper Scissors game. This project helped me learn about functions and editing elements within the DOM.
 
 Live page viewable here: https://flipott.github.io/rock-paper-scissors/
+
+# Features
+- Simple UI for easy navigation
+- Basic AI opponent
+- Round counter that displays how many rounds you've played
+- Scoreboard that keeps track of finished games
+
+# Tools Used
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 # Attribution
 Rock icon created by Freepik on Flaticon: https://www.flaticon.com/free-icon/rock_500351
